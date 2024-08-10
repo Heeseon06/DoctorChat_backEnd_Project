@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.2
+transformers==4.31.0
+peft==0.4.0
+bitsandbytes==0.35.0
